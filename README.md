@@ -26,7 +26,7 @@
 
 
 ## Introduction
-This is a side project I've been working on. A full stack expense spliting app - splitwise clone made using the MERN stack (MongoDB, Express, React & Nodejs), specially designed to split group expense between friends. With this application, you can add your expense details and get an whole expense analytics feature - Group Balance, Monthly amount spend, Catagory wise expense spending graph etc... Jump right off the [Live App]([https://new-repo-rose.vercel.app/](https://splitapp-pawans-projects-d18c381a.vercel.app/) and start adding your expenses or download the entire [Source code](https://github.com/pawan-malik-01/Split-expenses-webApp) and run it on your server.
+This is a side project I've been working on. A full stack expense spliting app - splitwise clone made using the MERN stack (MongoDB, Express, React & Nodejs), specially designed to split group expense between friends. With this application, you can add your expense details and get an whole expense analytics feature - Group Balance, Monthly amount spend, Catagory wise expense spending graph etc... Jump right off the[Live App]( https://splitapp-pawans-projects-d18c381a.vercel.app/) and start adding your expenses or download the entire [Source code](https://github.com/pawan-malik-01/Split-expenses-webApp) and run it on your server.
 
 ![Features](https://raw.githubusercontent.com/tuzup/SplitApp/master/Screenshots/combined-screenshot.png)
 
